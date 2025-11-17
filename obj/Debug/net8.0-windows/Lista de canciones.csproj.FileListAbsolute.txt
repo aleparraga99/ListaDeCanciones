@@ -1,0 +1,71 @@
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de canciones.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de canciones.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de canciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de canciones.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de canciones.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de canciones.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista_de_canciones.Vista.viewAgregarCancion.resources
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista_de_canciones.viewInicio.resources
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista_de_canciones.Vista.viewEliminarConfirmacion.resources
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Lista de canciones.exe
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Lista de canciones.deps.json
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Lista de canciones.runtimeconfig.json
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Lista de canciones.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Lista de canciones.pdb
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de.B147D931.Up2Date
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de canciones.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\refint\Lista de canciones.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de canciones.pdb
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista de canciones.genruntimeconfig.cache
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\ref\Lista de canciones.dll
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista_de_canciones.Vista.viewAcordes.resources
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista_de_canciones.Vista.viewEliminarParte.resources
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista_de_canciones.Vista.viewModificarNombreAutor.resources
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista_de_canciones.Vista.viewPartes.resources
+C:\Users\Equipo\Desktop\Lista de canciones\Lista de canciones\obj\Debug\net8.0-windows\Lista_de_canciones.Vista.viewBotonAgregarParte.resources
